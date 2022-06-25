@@ -1,0 +1,12 @@
+.btn_icon {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  background: none;
+  border: 0;
+}
+
+.btn_icon img {
+  width: 30px;
+  height: 30px;
+}
