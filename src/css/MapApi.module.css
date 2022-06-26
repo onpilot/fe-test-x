@@ -1,0 +1,31 @@
+.map_label {
+  position: absolute;
+  left: -14px;
+  transform: translateY(-94%);
+  background-color: var(--black3);
+  border-radius: 9999px 0 0 9999px;
+  padding: 5px 30px 5px 20px;
+}
+
+.overlay {
+  position: absolute;
+  left: -40px;
+  transform: translateY(-190%);
+  background-color: var(--green);
+  border-radius: 9999px 0 0 9999px;
+  padding: 15px 30px 15px 30px;
+}
+
+.overlay h1 {
+  width: max-content;
+  font-size: 20px;
+}
+
+.overlay p {
+  width: 180px;
+  font-size: 13px;
+}
+
+.hidden {
+  display: none;
+}
