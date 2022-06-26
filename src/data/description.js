@@ -1,7 +1,7 @@
 import merlion from '../img/images/merlion.png';
 
 export const description = {
-  Merlion: {
+  'Merlion': {
     img: merlion,
     text: [
       `The Merlion is the national personification of Singapore.`,
@@ -11,10 +11,10 @@ export const description = {
     web: 'http://marinabaysands.com',
   },
   'Marina Bay Sands': { img: '', text: [], address: '', web: '' },
-  'Garden by the Bay': { img: '', text: [], address: '', web: '' },
-  'China town': { img: '', text: [], address: '', web: '' },
+  'Gardens by the Bay': { img: '', text: [], address: '', web: '' },
+  'Chinatown': { img: '', text: [], address: '', web: '' },
   'Asian Civilisations Museum': { img: '', text: [], address: '', web: '' },
-  'Clarke Quey': { img: '', text: [], address: '', web: '' },
+  'Clarke Quay': { img: '', text: [], address: '', web: '' },
   'Fort Canning Park': { img: '', text: [], address: '', web: '' },
   'Singapore Flyer': { img: '', text: [], address: '', web: '' },
   'Orchard Road': { img: '', text: [], address: '', web: '' },
