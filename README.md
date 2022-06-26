@@ -18,5 +18,5 @@ App
 
 ## Todos: Improve Performance
 
-[ ] Use useReducer/redux for some states.
-[ ] Marker custom icon, text and OverlayView position.
+- [ ] Use useReducer/redux for some states.
+- [ ] Marker custom icon, text and OverlayView position.
