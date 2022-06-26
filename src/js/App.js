@@ -13,11 +13,11 @@ function App() {
     <div className={style.wrapper}>
       <div className={style.navigation}>
         <Nav />
-        <Menu setSelectedCity={setSelectedCity} />
+        <Menu selectedCity={selectedCity} setSelectedCity={setSelectedCity} />
       </div>
       <div className={style.map}>
         <Header setSelectedCity={setSelectedCity} />
-        <Map selectedCity={selectedCity} />
+        <Map selectedCity={selectedCity} setSelectedCity={setSelectedCity} />
       </div>
     </div>
   );
